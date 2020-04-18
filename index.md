@@ -1,0 +1,14 @@
+# Mikitaro Oka.
+- Work Experience
+  - System Integrator (2012/04-2020/02)
+  - Financial Securities Company(2020/03-)
+- Certification
+  - ITパスポート(2011)
+  - ITIL Foundation(2015)
+  - Oracle認定Javaプログラマ Silver SE 8(2019)
+  - 認定スクラムマスター(2018)
+  - 認定スクラムプロダクトオーナー(2019)
+  - [SAFe® 4 Agilist(2019)](https://www.scaledagile.com/certification-and-exam-information-sa/)
+- Contact
+  - email
+    - info at mikitaro.net
