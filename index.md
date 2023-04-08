@@ -10,6 +10,7 @@
   - 認定スクラムプロダクトオーナー(2019)
   - [SAFe® 4 Agilist(2019)](https://www.scaledagile.com/certification-and-exam-information-sa/)
   - AWS Certified Solutions Architect – Associate（2021）
+  - [認定テクニカルアナリスト（2023）](https://www.ntaa.or.jp/)
 - Contact
   - email
     - info at mikitaro.net
